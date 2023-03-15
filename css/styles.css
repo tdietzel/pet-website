@@ -1,0 +1,15 @@
+li.flashy{
+  color:red;
+  font-style:italic;
+}
+
+h1{
+  font-style:bold;
+  font-family:sans-serif;
+}
+
+#line23 {
+  color:purple;
+  font-style:bold;
+  font-family:courier;
+}
